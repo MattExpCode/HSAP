@@ -9,14 +9,10 @@
   - Event Summary: finding the most representative social event messages/words.
   - Event Evolution: temporal event evolving over event summarization.
 
-%## Getting Start
-
-  %1. Install Tomcat (>=8.5.69)
-  %2. Deploy the WAR file "out/artifacts/HSAP_archive/HSAP archive.war"
-
 ## Usage
 
   Visit website: http://121.45.242.221:8080/HSAP/maininterface.html
+  %%If you are unable to access the link, please contact me via email at ck131102@hotmail.com.
 
 ## User Interface
   
