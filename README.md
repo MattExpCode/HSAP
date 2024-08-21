@@ -13,7 +13,7 @@
 
   Visit website: http://121.45.242.221:8080/HSAP/maininterface.html  
   
-  **If you are unable to access the link, please contact me via email at ck131102@hotmail.com.**
+  **\*If you are unable to access the link, please contact me via email at ck131102@hotmail.com.**
 
 ## User Interface
   
