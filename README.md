@@ -40,9 +40,9 @@
   G. Event Evolution Over Time  
     <img src="MDfile/event_evolution.png" alt="Evolution" width="500">  
 
-## License
+//## License
 
-HSAP is released under the MIT License.
+//HSAP is released under the MIT License.
 
 ## Acknowledgments
 
